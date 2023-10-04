@@ -1,0 +1,72 @@
+.Mytable {
+  margin: auto;
+  width: 100%;
+  box-sizing: border-box;
+  font-weight: bold;
+  font-size: larger;
+}
+
+td {
+  width: 67px;
+  height: 86px;
+  font-size: 15px;
+  text-align: center;
+}
+
+td {
+  border: 1px solid bisque;
+}
+
+.nill {
+  border: none;
+}
+
+.C1 {
+  background-color: #99e599;
+  color: #2f8b56;
+}
+
+.C2 {
+  background-color: #ffe57f;
+  color: #d3a311;
+}
+
+.C3 {
+  background-color: #b2e5ff;
+  color: #0099cc;
+}
+
+.C4 {
+  background-color: #ffccb2;
+  color: #a03e0c;
+}
+
+#A1 {
+  background-color: #ea8350;
+  color: #fffdfd;
+}
+
+#A2 {
+  background-color: #b2ccff;
+  color: #0066cc;
+}
+
+#A3 {
+  background-color: #7fe5e5;
+  color: #006666;
+}
+
+.C5 {
+  background-color: #9e87bd;
+  color: #5c3aa5;
+}
+
+.C6 {
+  background-color: #cccccc;
+  color: #727272;
+}
+
+.C7 {
+  background-color: #ffcce5;
+  color: #cf0c3d;
+}
